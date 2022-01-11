@@ -1,2 +1,3 @@
-# ios-fraud-force
-FraudForce iOS SDK 
+# FraudForce
+
+A description of this package.
